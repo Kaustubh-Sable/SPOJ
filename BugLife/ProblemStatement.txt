@@ -1,3 +1,4 @@
+URL : https://www.spoj.com/problems/BUGLIFE/
 Professor Hopper is researching the sexual behavior of a rare species of bugs. He assumes that they feature two different genders 
 and that they only interact with bugs of the opposite gender. In his experiment, individual bugs and their interactions were easy 
 to identify, because numbers were printed on their backs.
